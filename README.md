@@ -14,6 +14,7 @@
 - developer mozilla https://developer.mozilla.org/en-US/
 - html https://html.spec.whatwg.org/
 - ISO ICS 35 Information technology https://www.iso.org/ics/35/x/
+- SOFTWARE QUALITY STANDARDS – ISO 5055 https://www.it-cisq.org/standards/code-quality-standards/
 
 ### Best Practice for Form
 - Password https://www.cybertalk.org/2023/03/10/20-password-management-best-practices-2022/
