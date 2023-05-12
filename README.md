@@ -10,6 +10,10 @@
 ### อ้างอิง convention อื่น
 - convention javascript https://github.com/lvarayut/javascript-style-guide
 - convention javascript [https://github.com/lvarayut/javascript-style-guide/blob/master/es5/README.md](https://github.com/javascript-tutorial/th.javascript.info)
+- The World Wide Web Consortium (W3C) https://www.w3.org/standards/
+- developer mozilla https://developer.mozilla.org/en-US/
+- html https://html.spec.whatwg.org/
+- ISO ICS 35 Information technology https://www.iso.org/ics/35/x/
 
 ### Best Practice for Form
 - Password https://www.cybertalk.org/2023/03/10/20-password-management-best-practices-2022/
