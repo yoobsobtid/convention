@@ -1,9 +1,10 @@
 # convention
 
 ## อ้างอิงคำศัพท์
-- https://csrc.nist.gov/glossary
+- คำศัพท์ภาษาอังกฤษ https://csrc.nist.gov/glossary
 - คำศัพท์ทั่วไป https://www.thefreedictionary.com/dictionary.htm
 - ภาษาไทย https://coined-word.orst.go.th/
+- คำศัพท์ทั่วไป https://dict.longdo.com/
 
 ## อ้างอิง convention อื่น
 - convention javascript https://github.com/lvarayut/javascript-style-guide
