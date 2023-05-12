@@ -3,6 +3,7 @@
 ## อ้างอิงคำศัพท์
 - https://csrc.nist.gov/glossary
 - คำศัพท์ทั่วไป https://www.thefreedictionary.com/dictionary.htm
+- ภาษาไทย https://coined-word.orst.go.th/
 
 ## อ้างอิง convention อื่น
 - convention javascript https://github.com/lvarayut/javascript-style-guide
@@ -20,5 +21,4 @@
 - Best Practices for Remote Examinations https://academic-senate.berkeley.edu/issues/coronavirus/best-practices-remote-examinations 
 - Best Practices for Delivering Online Tests & Quizzes https://collab-help.its.virginia.edu/m/assessments/l/613778-best-practices-for-delivering-online-tests-quizzes 
 - Best Practices for Offering Exams Online https://www.k-state.edu/keepteaching/online-exams.html 
-- 
 
