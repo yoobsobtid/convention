@@ -29,3 +29,7 @@
 - Best Practices for Delivering Online Tests & Quizzes https://collab-help.its.virginia.edu/m/assessments/l/613778-best-practices-for-delivering-online-tests-quizzes 
 - Best Practices for Offering Exams Online https://www.k-state.edu/keepteaching/online-exams.html 
 
+### Best Practice for presentation
+- Best practices for designing presentation slides https://virtualspeech.com/blog/designing-presentation-slides
+- PowerPoint Presentation Best Practices: Tips & Resources https://libguides.hccfl.edu/powerpoint/tips
+- 10 tips on how to make slides https://blog.ted.com/10-tips-for-better-slide-decks/ 
