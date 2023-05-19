@@ -15,6 +15,8 @@
 - html https://html.spec.whatwg.org/
 - ISO ICS 35 Information technology https://www.iso.org/ics/35/x/
 - SOFTWARE QUALITY STANDARDS – ISO 5055 https://www.it-cisq.org/standards/code-quality-standards/
+- System and software quality ISO/IEC 25010 https://www.iso.org/standard/35733.html https://iso25000.com/index.php/en/iso-25000-standards/iso-25010
+- 
 
 ### Best Practice for Form
 - Password https://www.cybertalk.org/2023/03/10/20-password-management-best-practices-2022/
