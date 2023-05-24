@@ -16,7 +16,10 @@
 - ISO ICS 35 Information technology https://www.iso.org/ics/35/x/
 - SOFTWARE QUALITY STANDARDS – ISO 5055 https://www.it-cisq.org/standards/code-quality-standards/
 - System and software quality ISO/IEC 25010 https://www.iso.org/standard/35733.html https://iso25000.com/index.php/en/iso-25000-standards/iso-25010
-- 
+
+### ภาษา Language code
+- Language code https://en.wikipedia.org/wiki/Language_code 
+- ISO Language Code Table http://www.lingoes.net/en/translator/langcode.htm
 
 ### Best Practice for Form
 - Password https://www.cybertalk.org/2023/03/10/20-password-management-best-practices-2022/
@@ -35,3 +38,4 @@
 - Best practices for designing presentation slides https://virtualspeech.com/blog/designing-presentation-slides
 - PowerPoint Presentation Best Practices: Tips & Resources https://libguides.hccfl.edu/powerpoint/tips
 - 10 tips on how to make slides https://blog.ted.com/10-tips-for-better-slide-decks/ 
+
