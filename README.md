@@ -31,6 +31,8 @@
 ### Primer
 - Github Design Guide https://primer.style/design/guides/introduction
 - The System Design Primer https://github.com/donnemartin/system-design-primer
+- System Design Primer educative https://www.educative.io/blog/system-design-primer
+- System Design Primer algodaily https://algodaily.com/lessons/a-systems-design-primer-for-new-engineers
 
 ### Validation pattern
 - google search ว่า validation design หรือ Verification and Validation
@@ -69,3 +71,5 @@
 - GraphQL Schema Style Guide https://github.com/hendrikniemann/graphql-style-guide
 - https://the-guild.dev/
 
+## Code Generator
+- https://webcode.tools/
