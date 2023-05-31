@@ -28,6 +28,21 @@
 - Password https://support.microsoft.com/en-us/windows/create-and-use-strong-passwords-c5cebb49-8c53-4f5e-2bc4-fe357ca048eb
 - Sign-in form https://web.dev/sign-in-form-best-practices/
 
+### Primer
+- Github Design Guide https://primer.style/design/guides/introduction
+- The System Design Primer https://github.com/donnemartin/system-design-primer
+
+### Validation pattern
+- google search ว่า validation design หรือ Verification and Validation
+- greenlight https://www.greenlight.guru/blog/design-verification-and-design-validation
+- guru99 https://www.guru99.com/design-verification-process.html
+- mit https://ocw.mit.edu/courses/16-842-fundamentals-of-systems-engineering-fall-2015/resources/session-9-verification-and-validation/
+- emmainternational https://emmainternational.com/design-verification-vs-design-validation/
+- https://www.slideteam.net/design-verification-and-validation-process-ppt-powerpoint-presentation-styles-graphics.html
+- https://safetyculture.com/topics/process-validation/
+- https://www.sciencedirect.com/science/article/abs/pii/S0007850610001927
+- https://www.geeksforgeeks.org/software-engineering-verification-and-validation/
+
 ### Best Practice for Testing or Exam
 - Best practices for instructors designing an online quiz https://lthelp.yorku.ca/best-practices-for-instructors-designing-an-online-quiz 
 - Best Practices for Remote Examinations https://academic-senate.berkeley.edu/issues/coronavirus/best-practices-remote-examinations 
@@ -38,4 +53,19 @@
 - Best practices for designing presentation slides https://virtualspeech.com/blog/designing-presentation-slides
 - PowerPoint Presentation Best Practices: Tips & Resources https://libguides.hccfl.edu/powerpoint/tips
 - 10 tips on how to make slides https://blog.ted.com/10-tips-for-better-slide-decks/ 
+
+### Online platforms for Competitive programming or Practice Algorithm
+- beecrowd www.beecrowd.com.br
+- CodeChef www.codechef.com
+- Codeforces www.codeforces.com
+- HackerEarth www.hackerearth.com
+- HackerRank https://www.hackerrank.com
+- Leetcode www.leetcode.com
+- TestDome https://www.testdome.com
+- TestDome certificates are free, take less than an hour, and ask real-world tasks. https://www.testdome.com/certificates
+- Codewars https://www.codewars.com
+
+### GraphQL
+- GraphQL Schema Style Guide https://github.com/hendrikniemann/graphql-style-guide
+- https://the-guild.dev/
 
